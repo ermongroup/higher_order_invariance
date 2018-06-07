@@ -47,7 +47,7 @@ where the options are listed as follows
 * `algorithm`: a string. Can be 'ng', 'geo', 'mid', 'geo_faster' or 'adam'
 * `runName`: a string. The name of log files.
 
-### Model-Free Reinforcement Learning over Contrinuous Control
+### Model-Free Reinforcement Learning over Continuous Control
 
 Model-free reinforcement learning over continuous control tasks for [ACKTR](https://arxiv.org/abs/1708.05144). Based on [OpenAI Baselines](https://github.com/openai/baselines). Our code can be installed by running
 
