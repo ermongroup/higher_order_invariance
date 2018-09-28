@@ -79,10 +79,10 @@ python -m baselines.acktr.run_mujoco --env=Walker2d-v2 --seed=1 --mom=0.0 --lr=0
 If you find the idea or code useful for your research, please consider citing our [paper](https://arxiv.org/pdf/1803.01273.pdf):
 
 ```
-@article{song2018accelerating,
+@inproceedings{song2018accelerating,
   title={Accelerating Natural Gradient with Higher-Order Invariance},
   author={Song, Yang and Song, Jiaming and Ermon, Stefano},
-  journal={arXiv preprint arXiv:1803.01273},
-  year={2018}
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year={2018},
 }
 ```
